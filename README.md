@@ -5,7 +5,7 @@
 ![](https://img.shields.io/github/issues/lylemi/learn-web-hacking.svg)
 ![](https://img.shields.io/github/license/lylemi/learn-web-hacking.svg)
 
-[Original Repository ](https://github.com/LyleMi/Learn-Web-Hacking/blob/master/README.md) 
+[Original Repository ](https://github.com/LyleMi/Learn-Web-Hacking/) 
 
 # About
 ---
