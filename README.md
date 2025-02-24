@@ -5,9 +5,7 @@
 ![](https://img.shields.io/github/issues/lylemi/learn-web-hacking.svg)
 ![](https://img.shields.io/github/license/lylemi/learn-web-hacking.svg)
 
-[README](https://github.com/LyleMi/Learn-Web-Hacking/blob/master/README.md) 
-
-[Link to notes](https://websec.readthedocs.io)
+[Original Repository ](https://github.com/LyleMi/Learn-Web-Hacking/blob/master/README.md) 
 
 # About
 ---
@@ -35,7 +33,7 @@ It is important to note that only this Readme is translated at the moment. Reade
 
 # table of contents
 ---
-1. Prologue (序章)
+1. Prologue
     1. Evolution of networking technology
     2. Evolution of offensive and defensive networking technology
     3. Network Security perspective
@@ -171,12 +169,9 @@ cd Learn-Web-Hacking
 pip install sphinx sphinx-rtd-theme
 make html
 ```
-### Contributions
+### This Fork
 ---
-
-Questions and suggestions are welcomed through Issue or PR, much appreciated.
-
-Thanks to all who [contributed](https://github.com/LyleMi/Learn-Web-Hacking/graphs/contributors).
+This is a Fork from [LyleMi](https://github.com/LyleMi/Learn-Web-Hacking) That have been Translated From Chinese 
 
 ### License
 ---
