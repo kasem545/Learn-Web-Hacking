@@ -7,7 +7,7 @@
 
 ### This Fork
 ---
-This is a Fork from [Original Repository ](https://github.com/LyleMi/Learn-Web-Hacking/) That have been Translated From Chinese  
+This is a Fork from [LyleMi the original repository ](https://github.com/LyleMi/Learn-Web-Hacking/) That have been Translated From Chinese  
 
 # About
 ---
