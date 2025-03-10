@@ -5,7 +5,9 @@
 ![](https://img.shields.io/github/issues/lylemi/learn-web-hacking.svg)
 ![](https://img.shields.io/github/license/lylemi/learn-web-hacking.svg)
 
-[Original Repository ](https://github.com/LyleMi/Learn-Web-Hacking/) 
+### This Fork
+---
+This is a Fork from [Original Repository ](https://github.com/LyleMi/Learn-Web-Hacking/) That have been Translated From Chinese  
 
 # About
 ---
@@ -169,9 +171,6 @@ cd Learn-Web-Hacking
 pip install sphinx sphinx-rtd-theme
 make html
 ```
-### This Fork
----
-This is a Fork from [LyleMi](https://github.com/LyleMi/Learn-Web-Hacking) That have been Translated From Chinese 
 
 ### License
 ---
